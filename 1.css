@@ -1,0 +1,66 @@
+*{margin: 0; padding: 0;}
+.khoinho{
+	transition:0.4s;
+	opacity:0;
+	transform:scale(0);
+	visibility: hidden;
+} 
+.khoito{
+	transition:0.4s;
+	opacity:0;
+	visibility: hidden;
+}
+.khoinho.ra{
+	opacity:1;
+	transform:scale(1);
+	visibility: visible;
+} 
+.khoito.xuathien{
+	opacity:0.5;
+	visibility: visible;
+}
+#u3393{overflow: hidden;}
+#u3393 .v2{ transition:0.4s;}
+#u4772{left:366px;}
+#u3393:hover .v2 {transform:translateX(-180px);}
+
+#u3394{overflow: hidden;}
+#u3394 .td{ transition:0.4s;}
+#u3403{left:366px;}
+#u3394:hover .td {transform:translateX(-180px);}
+
+#u3395{overflow: hidden;}
+#u3395 .tt{ transition:0.4s;}
+#u3413{left:366px;}
+#u3395:hover .tt {transform:translateX(-180px);}
+
+#u3396{overflow: hidden;}
+#u3396 .tt{ transition:0.4s;}
+#u3418{left:366px;}
+#u3396:hover .tt {transform:translateX(-180px);}
+
+#u3397{overflow: hidden;}
+#u3397 .tt{ transition:0.4s;}
+#u3423{left:366px;}
+#u3397:hover .tt {transform:translateX(-180px);}
+
+#u3398{overflow: hidden;}
+#u3398 .tt{ transition:0.4s;}
+#u3428{left:366px;}
+#u3398:hover .tt {transform:translateX(-180px);}
+
+#u3399{overflow: hidden;}
+#u3399 .tt{ transition:0.4s;}
+#u3433{left:366px;}
+#u3399:hover .tt {transform:translateX(-180px);}
+
+#u3400{overflow: hidden;}
+#u3400 .tt{ transition:0.4s;}
+#u3438{left:366px;}
+#u3400:hover .tt {transform:translateX(-180px);}
+
+#u3401{overflow: hidden;}
+#u3401 .tt{ transition:0.4s;}
+#u3443{left:366px;}
+#u3401:hover .tt {transform:translateX(-180px);}
+

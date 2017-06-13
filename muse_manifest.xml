@@ -1,0 +1,679 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mainguyen98@github.io" resolutions="1x" timestamp="1497366892631">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="322969870" ref="news:contact:recruitment:about-us:detail:index:menu:home-click"/>
+    <file name="news.css" crc="4044019099" ref="news"/>
+    <file name="contact.css" crc="8283382" ref="contact"/>
+    <file name="recruitment.css" crc="3927516104" ref="recruitment"/>
+    <file name="about-us.css" crc="4181601704" ref="about-us"/>
+    <file name="detail.css" crc="4127907058" ref="detail"/>
+    <file name="index.css" crc="3789798329" ref="index"/>
+    <file name="menu.css" crc="3980479678" ref="menu"/>
+    <file name="home-click.css" crc="4053527202" ref="home-click"/>
+  </folder>
+  <folder name="assets">
+    <file name="quang-cao.mp4" crc="273976446" seo="true" mt="1496500304000"/>
+    <file name="quang-cao.fla" crc="4277146763" seo="true" mt="1496500246000"/>
+    <file name="quang-cao.swf" crc="3967880527" seo="true" mt="1496501457000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:phone>contact:phone>detail:index:detail:menu:about-us:news:recruitment:phone>menu:phone>about-us:phone>news:phone>recruitment:home-click"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:recruitment:home-click"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index:home-click"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index:home-click"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:index:home-click"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>contact:index:contact:about-us:news:recruitment:phone>about-us:phone>recruitment:home-click:detail:menu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>contact:recruitment"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>contact:recruitment"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>contact:recruitment"/>
+    <file name="form-u7331.php" crc="253477282" ref="phone>contact"/>
+    <file name="form-u7410.php" crc="500454497" ref="phone>contact"/>
+    <file name="form-u7786.php" crc="4097933267" ref="phone>detail"/>
+    <file name="form-u2266.php" crc="3817169596" ref="contact"/>
+    <file name="form-u2433.php" crc="112743395" ref="contact"/>
+    <file name="form-u2526.php" crc="3845222276" ref="detail"/>
+    <file name="form-u4604.php" crc="3868111398" ref="recruitment"/>
+    <file name="form-u8671.php" crc="339699563" ref="phone>recruitment"/>
+  </folder>
+  <folder name="images">
+    <file name="diffrent-seafood-wallpapers (1)-u6035-fr.jpg" crc="420546469" ref="phone>index"/>
+    <file name="u6039-4.png" crc="3848006941" ref="phone>index"/>
+    <file name="u6040-4.png" crc="3777836322" ref="phone>index"/>
+    <file name="u6041-4.png" crc="3871748482" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u6806-4.png" crc="3961136975" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="untitled-1.png" crc="202851621" seo="true" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment:index:contact:detail:menu:about-us:news:recruitment:home-click">
+      <caption webpage="detail" alt=""/>
+      <caption webpage="recruitment" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="home-click" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u6882-4.png" crc="359202098" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6889-4.png" crc="4158884982" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6895-4.png" crc="148569805" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6864-4.png" crc="526775857" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6878-4.png" crc="47157937" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6871-4.png" crc="88939723" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u6042.png" crc="325865551" ref="phone>index"/>
+    <file name="u6042-r.png" crc="118018584" ref="phone>index"/>
+    <file name="u6446.png" crc="4157604522" ref="phone>index"/>
+    <file name="u6446-r.png" crc="4216716930" ref="phone>index"/>
+    <file name="u6450-4.png" crc="465824463" ref="phone>index"/>
+    <file name="u6451-4.png" crc="388415375" ref="phone>index"/>
+    <file name="u6459-4.png" crc="449897962" ref="phone>index"/>
+    <file name="boiled-alive-cooking-live-animals-seafood-wallpapers.jpg" crc="4039548231" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="130dx910cu0-2p28.jpg" crc="4152455368" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="326995184x138.jpg" crc="4046210217" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6487-9.png" crc="4215077486" ref="phone>index"/>
+    <file name="u6593-9.png" crc="445180368" ref="phone>index"/>
+    <file name="u6627-9.png" crc="4103795700" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index:home-click"/>
+    <file name="u6637-4.png" crc="9731569" ref="phone>index"/>
+    <file name="u6638-4.png" crc="3948961257" ref="phone>index"/>
+    <file name="u6639-4.png" crc="151923644" ref="phone>index"/>
+    <file name="u6656.png" crc="325865551" ref="phone>index"/>
+    <file name="u6656-r.png" crc="118018584" ref="phone>index"/>
+    <file name="711f2bffcd7227fe44b86a7176bc1cbd-crop-u6649.png" crc="3898490601" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6676-4.png" crc="4248913498" ref="phone>index"/>
+    <file name="u6677-4.png" crc="4239867413" ref="phone>index"/>
+    <file name="u6678-6.png" crc="4156939915" ref="phone>index"/>
+    <file name="u6697.png" crc="184431795" ref="phone>index"/>
+    <file name="u6697-r.png" crc="4291478480" ref="phone>index"/>
+    <file name="u6702.png" crc="4267803737" ref="phone>index"/>
+    <file name="u6702-r.png" crc="3887040147" ref="phone>index"/>
+    <file name="ossiano-hero-main-u6685-fr.jpg" crc="492748941" ref="phone>index"/>
+    <file name="u7535-4.png" crc="261260515" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7536-8.png" crc="4128028793" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7540-4.png" crc="53546956" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7541-6.png" crc="4023884246" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7542-4.png" crc="394918625" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7537.png" crc="4194276459" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7537-r.png" crc="428525313" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7538.png" crc="3873116700" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7538-r.png" crc="325041268" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7539.png" crc="279855221" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7539-r.png" crc="324431219" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7543.png" crc="4169885816" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7543-r.png" crc="4165694215" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7544.png" crc="3883569237" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7544-r.png" crc="3762378007" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7545.png" crc="223923994" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7545-r.png" crc="8436371" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7546.png" crc="394210716" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7546-r.png" crc="318029547" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7547.png" crc="3997737511" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7547-r.png" crc="445252910" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7548.png" crc="4259327203" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="u7548-r.png" crc="82308729" ref="phone>index:phone>contact:phone>detail:phone>menu:phone>about-us:phone>news:phone>recruitment"/>
+    <file name="diffrent-seafood-wallpapers-crop-u7165.jpg" crc="4168119880" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u7175-4.png" crc="96060607" ref="phone>contact"/>
+    <file name="u7178-4.png" crc="283705325" ref="phone>contact"/>
+    <file name="resevation.png" crc="4080132685" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u7188-4.png" crc="4113140179" ref="phone>contact"/>
+    <file name="u7191-4.png" crc="3809024156" ref="phone>contact"/>
+    <file name="feedback.png" crc="3838460308" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u7247-4.png" crc="4114689793" ref="phone>contact"/>
+    <file name="u7251-4.png" crc="135282083" ref="phone>contact"/>
+    <file name="location.png" crc="3923843811" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u7273-4.png" crc="152276641" ref="phone>contact"/>
+    <file name="u7277-4.png" crc="4256103973" ref="phone>contact"/>
+    <file name="u7329-4.png" crc="3770509812" ref="phone>contact"/>
+    <file name="u7330-8.png" crc="3905210724" ref="phone>contact"/>
+    <file name="redondo_patio_3-u7398-fr.jpg" crc="523831340" ref="phone>contact"/>
+    <file name="u7401-4.png" crc="3824320486" ref="phone>contact"/>
+    <file name="u7403-8.png" crc="296375785" ref="phone>contact"/>
+    <file name="u7402-4.png" crc="32684693" ref="phone>contact"/>
+    <file name="u7411.png" crc="249628767" ref="phone>contact"/>
+    <file name="u7411-r.png" crc="248462711" ref="phone>contact"/>
+    <file name="u7411-m.png" crc="3823894734" ref="phone>contact"/>
+    <file name="u7411-fs.png" crc="3838468849" ref="phone>contact"/>
+    <file name="u7473-4.png" crc="4078001692" ref="phone>contact"/>
+    <file name="diffrent-seafood-wallpapers-crop-u7581.jpg" crc="4168119880" seo="true" ref="phone>detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u7584-4.png" crc="38504130" ref="phone>detail"/>
+    <file name="u7601-4.png" crc="341526188" ref="phone>detail"/>
+    <file name="u7602-4.png" crc="4072905240" ref="phone>detail"/>
+    <file name="326995301x226.jpg" crc="4175117194" seo="true" ref="phone>detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u7605-4.png" crc="3776735029" ref="phone>detail"/>
+    <file name="u7613-4.png" crc="239161224" ref="phone>detail"/>
+    <file name="u7606-6.png" crc="4172673438" ref="phone>detail"/>
+    <file name="u7607-6.png" crc="4204704280" ref="phone>detail"/>
+    <file name="u7608-6.png" crc="141765883" ref="phone>detail"/>
+    <file name="u7609-6.png" crc="4272788520" ref="phone>detail"/>
+    <file name="u7610-6.png" crc="443383548" ref="phone>detail"/>
+    <file name="u7611-6.png" crc="4052858183" ref="phone>detail"/>
+    <file name="u7612-6.png" crc="4180575235" ref="phone>detail"/>
+    <file name="u7614-4.png" crc="3897556968" ref="phone>detail"/>
+    <file name="u7616-4.png" crc="3826152312" ref="phone>detail"/>
+    <file name="u7655-4.png" crc="4228943708" ref="phone>detail"/>
+    <file name="u7649-4.png" crc="78550353" ref="phone>detail"/>
+    <file name="u7650-22.png" crc="4083274441" ref="phone>detail"/>
+    <file name="crab soup-u7664-fr.jpg" crc="4028591828" ref="phone>detail"/>
+    <file name="mini crab rolls-u7665-fr.jpg" crc="135593057" ref="phone>detail"/>
+    <file name="u7656-4.png" crc="3999264238" ref="phone>detail"/>
+    <file name="u7660-4.png" crc="112452374" ref="phone>detail"/>
+    <file name="u7657-4.png" crc="4214422024" ref="phone>detail"/>
+    <file name="u7661-4.png" crc="112452374" ref="phone>detail"/>
+    <file name="u7695-4.png" crc="4223696705" ref="phone>detail"/>
+    <file name="u7697-8.png" crc="489275435" ref="phone>detail"/>
+    <file name="florida shrimp pie-u7666-fr.jpg" crc="507380784" ref="phone>detail"/>
+    <file name="u7658-4.png" crc="210566956" ref="phone>detail"/>
+    <file name="u7662-4.png" crc="112452374" ref="phone>detail"/>
+    <file name="u7696-4.png" crc="469959391" ref="phone>detail"/>
+    <file name="u7699-4.png" crc="4056720538" ref="phone>detail"/>
+    <file name="u7701-4.png" crc="3824889497" ref="phone>detail"/>
+    <file name="u7703-4.png" crc="3982038040" ref="phone>detail"/>
+    <file name="u7705-11.png" crc="4180865788" ref="phone>detail"/>
+    <file name="lava-cake-u7667-fr.jpg" crc="180345946" ref="phone>detail"/>
+    <file name="u7659-4.png" crc="11393352" ref="phone>detail"/>
+    <file name="u7663-4.png" crc="112452374" ref="phone>detail"/>
+    <file name="u7700-4.png" crc="4056720538" ref="phone>detail"/>
+    <file name="u7702-4.png" crc="4261631393" ref="phone>detail"/>
+    <file name="u7704-4.png" crc="508965622" ref="phone>detail"/>
+    <file name="u7706-11.png" crc="3996464416" ref="phone>detail"/>
+    <file name="u7709-4.png" crc="446761013" ref="phone>detail"/>
+    <file name="u7711-4.png" crc="3824889497" ref="phone>detail"/>
+    <file name="u7713-4.png" crc="508965622" ref="phone>detail"/>
+    <file name="u7766-11.png" crc="3996464416" ref="phone>detail"/>
+    <file name="u7710-4.png" crc="4124610362" ref="phone>detail"/>
+    <file name="u7712-4.png" crc="4261631393" ref="phone>detail"/>
+    <file name="u7714-4.png" crc="508965622" ref="phone>detail"/>
+    <file name="u7780-11.png" crc="3996464416" ref="phone>detail"/>
+    <file name="u7716.png" crc="317587633" ref="phone>detail"/>
+    <file name="u7716-r.png" crc="3818042826" ref="phone>detail"/>
+    <file name="u7785-4.png" crc="3918801475" ref="phone>detail"/>
+    <file name="u7802.png" crc="323816183" ref="phone>detail"/>
+    <file name="u7802-r.png" crc="3981556694" ref="phone>detail"/>
+    <file name="u7802-m.png" crc="3866070343" ref="phone>detail"/>
+    <file name="u7802-fs.png" crc="186119652" ref="phone>detail"/>
+    <file name="u572-4.png" crc="4273888720" ref="index"/>
+    <file name="u575-4.png" crc="7001056" ref="index"/>
+    <file name="u581-4.png" crc="3980189018" ref="index"/>
+    <file name="711f2bffcd7227fe44b86a7176bc1cbd.png" crc="3818869128" seo="true" ref="index:home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="u842-4.png" crc="4241054640" ref="index"/>
+    <file name="u845-4.png" crc="4153110754" ref="index"/>
+    <file name="u848-4.png" crc="221078402" ref="index"/>
+    <file name="u1055-4.png" crc="94747914" ref="index"/>
+    <file name="u1058-4.png" crc="332405756" ref="index"/>
+    <file name="u1061-6.png" crc="233325219" ref="index"/>
+    <file name="ossiano-hero-main.jpg" crc="148811638" ref="index:home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="capture-20170602-124643.jpg" crc="4106458838" seo="true" ref="index:home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="1111.jpg" crc="4106458838" seo="true" ref="index:home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="u637.png" crc="4048704399" ref="index"/>
+    <file name="u637-r.png" crc="4006684913" ref="index"/>
+    <file name="u640.png" crc="4134478002" ref="index"/>
+    <file name="u640-r.png" crc="4154487343" ref="index"/>
+    <file name="u1383.png" crc="451459252" ref="index"/>
+    <file name="u1383-r.png" crc="3985403506" ref="index"/>
+    <file name="u1389_states.png" crc="4236227438" ref="index"/>
+    <file name="u1389_states-r.png" crc="408745926" ref="index"/>
+    <file name="u1392.png" crc="3848005132" ref="index"/>
+    <file name="u1392-r.png" crc="4227781302" ref="index"/>
+    <file name="u1398.png" crc="4236227438" ref="index"/>
+    <file name="u1398-r.png" crc="408745926" ref="index"/>
+    <file name="diffrent-seafood-wallpapers (1).jpg" crc="3847781572" ref="index:about-us:news:home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="home-click" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3858-4.png" crc="189779487" ref="index"/>
+    <file name="u3859-4.png" crc="4156026166" ref="index"/>
+    <file name="u3860.png" crc="215554285" ref="index"/>
+    <file name="u3860-r.png" crc="3985403506" ref="index"/>
+    <file name="u342-4.png" crc="3899894436" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u496-4.png" crc="3793339569" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u468-4.png" crc="4199545009" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u440-4.png" crc="523237947" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u412-4.png" crc="3884760736" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u383-4.png" crc="4266654790" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="diffrent-seafood-wallpapers-crop-u1157.jpg" crc="4135147279" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u1167-4.png" crc="4063871074" ref="contact"/>
+    <file name="u2646-4.png" crc="404037056" ref="contact"/>
+    <file name="u2649-4.png" crc="3884971793" ref="contact"/>
+    <file name="u2658-4.png" crc="246016152" ref="contact"/>
+    <file name="u2661-4.png" crc="3832985016" ref="contact"/>
+    <file name="u2670-4.png" crc="3827613064" ref="contact"/>
+    <file name="u2673-4.png" crc="225217050" ref="contact"/>
+    <file name="u1187-4.png" crc="400396158" ref="contact"/>
+    <file name="u1191-8.png" crc="3849793302" ref="contact"/>
+    <file name="u1241-4.png" crc="4264707966" ref="contact"/>
+    <file name="u1244-8.png" crc="298125378" ref="contact"/>
+    <file name="u1247-4.png" crc="4112317724" ref="contact"/>
+    <file name="u1319-4.png" crc="398827869" ref="contact"/>
+    <file name="u1164-4.png" crc="3789788916" ref="contact"/>
+    <file name="u2284.png" crc="3850676750" ref="contact"/>
+    <file name="u2284-r.png" crc="449339036" ref="contact"/>
+    <file name="u2284-m.png" crc="348804621" ref="contact"/>
+    <file name="u2284-fs.png" crc="3902496806" ref="contact"/>
+    <file name="redondo_patio_3.jpg" crc="90706168" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="capture-20170606-095856.jpg" crc="3784039687" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="diffrent-seafood-wallpapers-crop-u1519.jpg" crc="4002570274" seo="true" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="326995.jpg" crc="412734307" seo="true" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u1544-4.png" crc="3834550287" ref="detail"/>
+    <file name="u1547-4.png" crc="3799912492" ref="detail"/>
+    <file name="u1556-4.png" crc="165167133" ref="detail"/>
+    <file name="u1580-4.png" crc="54772808" ref="detail"/>
+    <file name="u1559-6.png" crc="1144322" ref="detail"/>
+    <file name="u1562-6.png" crc="275736730" ref="detail"/>
+    <file name="u1565-6.png" crc="149065268" ref="detail"/>
+    <file name="u1568-6.png" crc="372197288" ref="detail"/>
+    <file name="u1571-6.png" crc="4430370" ref="detail"/>
+    <file name="u1574-6.png" crc="4289726835" ref="detail"/>
+    <file name="u1577-6.png" crc="3978334252" ref="detail"/>
+    <file name="u1583-4.png" crc="103231902" ref="detail"/>
+    <file name="u1589-4.png" crc="4139088248" ref="detail"/>
+    <file name="u1592-4.png" crc="59687495" ref="detail"/>
+    <file name="u1601-4.png" crc="3938728891" ref="detail"/>
+    <file name="u1595-22.png" crc="4243291197" ref="detail"/>
+    <file name="crab soup.jpg" crc="474712702" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="mini crab rolls.jpg" crc="4011251477" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="florida shrimp pie.jpg" crc="4095254157" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u1625-4.png" crc="431473629" ref="detail"/>
+    <file name="u1628-4.png" crc="429176868" ref="detail"/>
+    <file name="u1647-4.png" crc="3997202934" ref="detail"/>
+    <file name="u1650-4.png" crc="429176868" ref="detail"/>
+    <file name="u1673-4.png" crc="345582394" ref="detail"/>
+    <file name="u1676-4.png" crc="429176868" ref="detail"/>
+    <file name="u1685-4.png" crc="240089173" ref="detail"/>
+    <file name="u1688-8.png" crc="4291189421" ref="detail"/>
+    <file name="lava-cake.jpg" crc="3839986060" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u1679-4.png" crc="205077855" ref="detail"/>
+    <file name="u1682-4.png" crc="429176868" ref="detail"/>
+    <file name="u1697-4.png" crc="455999575" ref="detail"/>
+    <file name="u1703-4.png" crc="4126911779" ref="detail"/>
+    <file name="u1706-4.png" crc="520580462" ref="detail"/>
+    <file name="u1709-4.png" crc="3868062412" ref="detail"/>
+    <file name="u1722-11.png" crc="505302409" ref="detail"/>
+    <file name="u1712-4.png" crc="4126911779" ref="detail"/>
+    <file name="u1715-4.png" crc="520580462" ref="detail"/>
+    <file name="u1718-4.png" crc="3868062412" ref="detail"/>
+    <file name="u1729-11.png" crc="505302409" ref="detail"/>
+    <file name="quang cao.swf" crc="385349633" ref="detail"/>
+    <file name="u1926-4.png" crc="4070734049" ref="detail"/>
+    <file name="u1732-4.png" crc="3988253164" ref="detail"/>
+    <file name="u1932-4.png" crc="4189895255" ref="detail"/>
+    <file name="u1735-4.png" crc="520580462" ref="detail"/>
+    <file name="u1736-4.png" crc="3868062412" ref="detail"/>
+    <file name="u1750-4.png" crc="3925067384" ref="detail"/>
+    <file name="u1753-4.png" crc="520580462" ref="detail"/>
+    <file name="u1756-4.png" crc="3868062412" ref="detail"/>
+    <file name="u1774-11.png" crc="505302409" ref="detail"/>
+    <file name="u1780-11.png" crc="505302409" ref="detail"/>
+    <file name="paypal_itss.jpg" crc="4134638825" seo="true" ref="detail">
+      <caption webpage="detail" alt=""/>
+    </file>
+    <file name="u1795-4.png" crc="418236348" ref="detail"/>
+    <file name="u1522-4.png" crc="131925156" ref="detail"/>
+    <file name="u1792.png" crc="522217978" ref="detail"/>
+    <file name="u1792-r.png" crc="4200065964" ref="detail"/>
+    <file name="u2544.png" crc="98876781" ref="detail"/>
+    <file name="u2544-r.png" crc="100521426" ref="detail"/>
+    <file name="u2544-m.png" crc="4289387272" ref="detail"/>
+    <file name="u2544-fs.png" crc="4236334650" ref="detail"/>
+    <file name="diffrent-seafood-wallpapers-crop-u3372.jpg" crc="4002570274" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3391-4.png" crc="4254691429" ref="menu"/>
+    <file name="1.png" crc="4213835429" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u4104-4.png" crc="404037056" ref="menu"/>
+    <file name="u4105-4.png" crc="4145250748" ref="menu"/>
+    <file name="2.png" crc="3785515432" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u4134-4.png" crc="102615079" ref="menu"/>
+    <file name="u4137-4.png" crc="523551630" ref="menu"/>
+    <file name="3.png" crc="126763987" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u4162-4.png" crc="103670441" ref="menu"/>
+    <file name="u4165-4.png" crc="4270243880" ref="menu"/>
+    <file name="4.png" crc="362208961" seo="true" ref="menu:phone>menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u4190-4.png" crc="531737132" ref="menu"/>
+    <file name="u4193-4.png" crc="3854170373" ref="menu"/>
+    <file name="u3392-4.png" crc="13280394" ref="menu"/>
+    <file name="7.jpg" crc="322349766" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3411-4.png" crc="3889708255" ref="menu"/>
+    <file name="8.jpg" crc="4092084418" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3406-4.png" crc="11048442" ref="menu"/>
+    <file name="9.jpg" crc="3996016680" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3416-4.png" crc="4281801194" ref="menu"/>
+    <file name="10.jpg" crc="4204184475" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3421-4.png" crc="3796438091" ref="menu"/>
+    <file name="maryland crab cake.jpg" crc="4161645224" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3426-4.png" crc="3865452261" ref="menu"/>
+    <file name="12.jpg" crc="155172654" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3431-4.png" crc="3846810223" ref="menu"/>
+    <file name="13.jpg" crc="218706896" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3436-4.png" crc="137965962" ref="menu"/>
+    <file name="5.jpg" crc="79501135" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3441-4.png" crc="3836584705" ref="menu"/>
+    <file name="6.jpg" crc="3919616952" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u3446-4.png" crc="300016116" ref="menu"/>
+    <file name="u3375-4.png" crc="230898540" ref="menu"/>
+    <file name="u5085.png" crc="3888256989" ref="menu"/>
+    <file name="u5085-r.png" crc="4282269851" ref="menu"/>
+    <file name="u3726-4.png" crc="4273888720" ref="about-us"/>
+    <file name="u3727-4.png" crc="7001056" ref="about-us"/>
+    <file name="u3810-4.png" crc="120876748" ref="about-us"/>
+    <file name="u3811-4.png" crc="447354396" ref="about-us"/>
+    <file name="u3813-4.png" crc="382442137" ref="about-us"/>
+    <file name="u3812-16.png" crc="77153282" ref="about-us"/>
+    <file name="u3724-4.png" crc="4049298524" ref="about-us"/>
+    <file name="u3936-4.png" crc="4062130442" ref="news"/>
+    <file name="xah.jpg" crc="4216289093" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3941-6.png" crc="241474618" ref="news"/>
+    <file name="u3945-4.png" crc="4253303181" ref="news"/>
+    <file name="u3950-4.png" crc="3997879179" ref="news"/>
+    <file name="vag.jpg" crc="296120224" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3942-4.png" crc="250061423" ref="news"/>
+    <file name="u3946-8.png" crc="3769542404" ref="news"/>
+    <file name="u3952-4.png" crc="3997879179" ref="news"/>
+    <file name="duog.jpg" crc="3915781484" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3943-4.png" crc="45547740" ref="news"/>
+    <file name="u3947-4.png" crc="250883619" ref="news"/>
+    <file name="u3954-4.png" crc="3997879179" ref="news"/>
+    <file name="do.jpg" crc="263262942" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3944-4.png" crc="4233814032" ref="news"/>
+    <file name="u3948-4.png" crc="3777351855" ref="news"/>
+    <file name="u3956-4.png" crc="3997879179" ref="news"/>
+    <file name="u3918-4.png" crc="249764414" ref="news"/>
+    <file name="u4581-4.png" crc="3918091589" ref="recruitment"/>
+    <file name="u4584-9.png" crc="122655047" ref="recruitment"/>
+    <file name="u4587-4.png" crc="4008560374" ref="recruitment"/>
+    <file name="u4680-4.png" crc="480355265" ref="recruitment"/>
+    <file name="u4683-6.png" crc="4123420870" ref="recruitment"/>
+    <file name="u4689-4.png" crc="4117053707" ref="recruitment"/>
+    <file name="u4686-5.png" crc="4261523737" ref="recruitment"/>
+    <file name="u4693-4.png" crc="361256617" ref="recruitment"/>
+    <file name="u4694-5.png" crc="67442830" ref="recruitment"/>
+    <file name="u4696-4.png" crc="4101623566" ref="recruitment"/>
+    <file name="u4695-5.png" crc="3913206929" ref="recruitment"/>
+    <file name="u4590-4.png" crc="183113410" ref="recruitment"/>
+    <file name="diffrent-seafood-wallpapers.jpg" crc="3847781572" ref="recruitment">
+      <caption webpage="recruitment" alt=""/>
+    </file>
+    <file name="u4578-4.png" crc="4164370138" ref="recruitment"/>
+    <file name="what-does-the-current-online-recruitment-landscape-look-like.jpg" crc="4221478011" ref="recruitment">
+      <caption webpage="recruitment" alt=""/>
+    </file>
+    <file name="asset 6.png" crc="231158186" seo="true" ref="home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="asset 5.png" crc="4198528572" seo="true" ref="home-click">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-click" alt=""/>
+    </file>
+    <file name="u6671_states.png" crc="4267803737" ref="phone>index"/>
+    <file name="u6671_states-r.png" crc="3887040147" ref="phone>index"/>
+    <file name="diffrent-seafood-wallpapers-crop-u7859.jpg" crc="4168119880" seo="true" ref="phone>menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u7862-4.png" crc="3856879870" ref="phone>menu"/>
+    <file name="u7872-4.png" crc="3779106078" ref="phone>menu"/>
+    <file name="u7877-4.png" crc="3795120395" ref="phone>menu"/>
+    <file name="u7881-4.png" crc="4158279700" ref="phone>menu"/>
+    <file name="u7953-4.png" crc="224431920" ref="phone>menu"/>
+    <file name="u7957-4.png" crc="3945841679" ref="phone>menu"/>
+    <file name="u7966-4.png" crc="4023955032" ref="phone>menu"/>
+    <file name="u7979-4.png" crc="4019762788" ref="phone>menu"/>
+    <file name="u7996-4.png" crc="4020617618" ref="phone>menu"/>
+    <file name="u8000-4.png" crc="488028888" ref="phone>menu"/>
+    <file name="u8004-4.png" crc="225754917" ref="phone>menu"/>
+    <file name="7-u8007-fr.jpg" crc="3910354653" ref="phone>menu"/>
+    <file name="u8011-4.png" crc="216968649" ref="phone>menu"/>
+    <file name="8-u8025-fr.jpg" crc="4020177568" ref="phone>menu"/>
+    <file name="u8043-4.png" crc="337354890" ref="phone>menu"/>
+    <file name="9-u8060-fr.jpg" crc="3841812263" ref="phone>menu"/>
+    <file name="u8078-4.png" crc="135325334" ref="phone>menu"/>
+    <file name="10-u8095-fr.jpg" crc="4192751704" ref="phone>menu"/>
+    <file name="u8147-4.png" crc="4175031167" ref="phone>menu"/>
+    <file name="maryland crab cake-u8164-fr.jpg" crc="191291221" ref="phone>menu"/>
+    <file name="u8199-4.png" crc="4035181686" ref="phone>menu"/>
+    <file name="u8217.png" crc="4222935065" ref="phone>menu"/>
+    <file name="u8217-r.png" crc="4090647278" ref="phone>menu"/>
+    <file name="u8225-4.png" crc="4072238305" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8228-10.png" crc="30791958" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8226-4.png" crc="3808333554" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8229-7.png" crc="102180717" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8227-4.png" crc="383857494" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8230.png" crc="390874592" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8230-r.png" crc="479131833" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8231.png" crc="4173267627" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8231-r.png" crc="111394768" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8232.png" crc="3947952968" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8232-r.png" crc="4117514289" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8233.png" crc="410702338" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8233-r.png" crc="3967358120" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8234.png" crc="4139734555" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8234-r.png" crc="194923489" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8235.png" crc="4148655286" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8235-r.png" crc="3786527520" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8236.png" crc="4226297565" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8236-r.png" crc="527134050" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8237.png" crc="59385815" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8237-r.png" crc="221773478" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8238.png" crc="382463363" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="u8238-r.png" crc="4013596402" ref="index:contact:detail:menu:about-us:news:recruitment:home-click"/>
+    <file name="diffrent-seafood-wallpapers-crop-u8310.jpg" crc="4168119880" seo="true" ref="phone>about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u8313-4-a.png" crc="306159711" ref="phone>about-us"/>
+    <file name="u8325-4.png" crc="4293482359" ref="phone>about-us"/>
+    <file name="u8326-4.png" crc="4236632324" ref="phone>about-us"/>
+    <file name="u8327-4.png" crc="3896546265" ref="phone>about-us"/>
+    <file name="11-u8331-fr.jpg" crc="4116831696" ref="phone>about-us"/>
+    <file name="u8328-4.png" crc="3818741830" ref="phone>about-us"/>
+    <file name="u8330-4.png" crc="4252297551" ref="phone>about-us"/>
+    <file name="27-u8332-fr.jpg" crc="3772216140" ref="phone>about-us"/>
+    <file name="29 (1)-u8333-fr.jpg" crc="228982167" ref="phone>about-us"/>
+    <file name="u8329-16.png" crc="3784644225" ref="phone>about-us"/>
+    <file name="diffrent-seafood-wallpapers-crop-u8358.jpg" crc="4168119880" seo="true" ref="phone>news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u8361-4.png" crc="195931421" ref="phone>news"/>
+    <file name="u8371-4.png" crc="4054309805" ref="phone>news"/>
+    <file name="xah-u8374-fr.jpg" crc="3959862311" ref="phone>news"/>
+    <file name="u8378-6.png" crc="4084321089" ref="phone>news"/>
+    <file name="u8382-4.png" crc="249394527" ref="phone>news"/>
+    <file name="u8387-4.png" crc="4290694880" ref="phone>news"/>
+    <file name="vag-u8375-fr.jpg" crc="416465500" ref="phone>news"/>
+    <file name="u8439-4.png" crc="3823742805" ref="phone>news"/>
+    <file name="u8434-6.png" crc="532994093" ref="phone>news"/>
+    <file name="u8447-4.png" crc="4290694880" ref="phone>news"/>
+    <file name="duog-u8376-fr.jpg" crc="4170405816" ref="phone>news"/>
+    <file name="u8574-4.png" crc="4180800568" ref="phone>news"/>
+    <file name="u8571-4.png" crc="177111708" ref="phone>news"/>
+    <file name="u8577-4.png" crc="4290694880" ref="phone>news"/>
+    <file name="do-u8377-fr.jpg" crc="4195004367" ref="phone>news"/>
+    <file name="u8381-4.png" crc="246035355" ref="phone>news"/>
+    <file name="u8385-4.png" crc="66282713" ref="phone>news"/>
+    <file name="u8583-4.png" crc="4290694880" ref="phone>news"/>
+    <file name="diffrent-seafood-wallpapers-crop-u8589.jpg" crc="4168119880" seo="true" ref="phone>recruitment">
+      <caption webpage="recruitment" alt=""/>
+    </file>
+    <file name="u8592-4.png" crc="3774949552" ref="phone>recruitment"/>
+    <file name="u8602-4.png" crc="351868836" ref="phone>recruitment"/>
+    <file name="u8603-9.png" crc="3930108503" ref="phone>recruitment"/>
+    <file name="what-does-the-current-online-recruitment-landscape-look-like-u8608-fr.jpg" crc="423910245" ref="phone>recruitment"/>
+    <file name="u8611-4.png" crc="247437076" ref="phone>recruitment"/>
+    <file name="u8614-4.png" crc="21324802" ref="phone>recruitment"/>
+    <file name="u8615-6.png" crc="79581319" ref="phone>recruitment"/>
+    <file name="u8617-4.png" crc="4261119502" ref="phone>recruitment"/>
+    <file name="u8616-5.png" crc="389901475" ref="phone>recruitment"/>
+    <file name="u8655-4.png" crc="4042372508" ref="phone>recruitment"/>
+    <file name="u8659-6.png" crc="79581319" ref="phone>recruitment"/>
+    <file name="u8667-4.png" crc="4216461984" ref="phone>recruitment"/>
+    <file name="u8663-4.png" crc="245297458" ref="phone>recruitment"/>
+    <file name="u8612-4.png" crc="466916592" ref="phone>recruitment"/>
+    <file name="u3861_states.png" crc="4150441333" ref="index"/>
+    <file name="u3861_states-r.png" crc="3833393723" ref="index"/>
+    <file name="u8878-4.png" crc="4273888720" ref="home-click"/>
+    <file name="u8864-4.png" crc="7001056" ref="home-click"/>
+    <file name="u8818-4.png" crc="3980189018" ref="home-click"/>
+    <file name="u8824-4.png" crc="4241054640" ref="home-click"/>
+    <file name="u8857-4.png" crc="4153110754" ref="home-click"/>
+    <file name="u8861-4.png" crc="221078402" ref="home-click"/>
+    <file name="u8858-4.png" crc="94747914" ref="home-click"/>
+    <file name="u8868-4.png" crc="332405756" ref="home-click"/>
+    <file name="u8874-6.png" crc="233325219" ref="home-click"/>
+    <file name="u8829.png" crc="4048704399" ref="home-click"/>
+    <file name="u8829-r.png" crc="4006684913" ref="home-click"/>
+    <file name="u8827.png" crc="4134478002" ref="home-click"/>
+    <file name="u8827-r.png" crc="4154487343" ref="home-click"/>
+    <file name="u8850.png" crc="451459252" ref="home-click"/>
+    <file name="u8850-r.png" crc="3985403506" ref="home-click"/>
+    <file name="u8860_states.png" crc="4236227438" ref="home-click"/>
+    <file name="u8860_states-r.png" crc="408745926" ref="home-click"/>
+    <file name="u8872.png" crc="3848005132" ref="home-click"/>
+    <file name="u8872-r.png" crc="4227781302" ref="home-click"/>
+    <file name="u8821.png" crc="4236227438" ref="home-click"/>
+    <file name="u8821-r.png" crc="408745926" ref="home-click"/>
+    <file name="u8823-4.png" crc="427405951" ref="home-click"/>
+    <file name="u8855-4.png" crc="189779487" ref="home-click"/>
+    <file name="u8862-4.png" crc="4156026166" ref="home-click"/>
+    <file name="u8875.png" crc="215554285" ref="home-click"/>
+    <file name="u8875-r.png" crc="3985403506" ref="home-click"/>
+    <file name="u8865.png" crc="4150441333" ref="home-click"/>
+    <file name="u8865-r.png" crc="3833393723" ref="home-click"/>
+    <file name="u8820-4.png" crc="3898256610" ref="home-click"/>
+    <file name="u8869-4.png" crc="41359923" ref="home-click"/>
+    <file name="u8856-4.png" crc="528153900" ref="home-click"/>
+    <file name="u8876-4.png" crc="4120154472" ref="home-click"/>
+    <file name="u8870-4.png" crc="513992593" ref="home-click"/>
+    <file name="u8873-4.png" crc="4257945540" ref="home-click"/>
+    <file name="panorama-of-the-landscape-2328387_1920.jpg" crc="152380948" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="interior-2305694_1920.jpg" crc="438034722" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="chairs-1867099_1920.jpg" crc="4050412071" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="480230428" ref="phone>detail:phone>contact:phone>menu:phone>news:phone>about-us:phone>recruitment:phone>index"/>
+      <file name="detail.css" crc="409308247" ref="phone>detail"/>
+      <file name="contact.css" crc="3994012427" ref="phone>contact"/>
+      <file name="menu.css" crc="3934338717" ref="phone>menu"/>
+      <file name="news.css" crc="428212856" ref="phone>news"/>
+      <file name="about-us.css" crc="3927679093" ref="phone>about-us"/>
+      <file name="recruitment.css" crc="3981892720" ref="phone>recruitment"/>
+      <file name="index.css" crc="4056623363" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3794577959" seo="true" mt="1497338374380" redirect="true"/>
+    <file name="contact.html" crc="3957003141" seo="true" mt="1497348704367" redirect="true"/>
+    <file name="detail.html" crc="467479275" seo="true" mt="1497197376894" redirect="true"/>
+    <file name="menu.html" crc="3773633267" seo="true" mt="1497197376894" redirect="true"/>
+    <file name="about-us.html" crc="192740023" seo="true" mt="1497197376894" redirect="true"/>
+    <file name="news.html" crc="493212638" seo="true" mt="1497197376894" redirect="true"/>
+    <file name="recruitment.html" crc="4250623976" seo="true" mt="1497197376894" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="421580244" seo="true" mt="1497346378353" redirect="true"/>
+  <file name="contact.html" crc="304288127" seo="true" mt="1497348952789" redirect="true"/>
+  <file name="detail.html" crc="4055157194" seo="true" mt="1497348088159" redirect="true"/>
+  <file name="menu.html" crc="4216637672" seo="true" mt="1497366881043" redirect="true"/>
+  <file name="about-us.html" crc="4061471049" seo="true" mt="1497365846826" redirect="true"/>
+  <file name="news.html" crc="3831279317" seo="true" mt="1497366144108" redirect="true"/>
+  <file name="recruitment.html" crc="3955268382" seo="true" mt="1497366409846" redirect="true"/>
+  <file name="home-click.html" crc="3896097802" seo="true" mt="1497345112204" redirect="true"/>
+</manifest>
